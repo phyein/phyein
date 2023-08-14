@@ -1,9 +1,11 @@
-# Hello! 👋
+# Hello, I'm Connor! 👋
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Software+Engineer+(full-stack);%F0%9F%93%96+Open-Source+Enthusiast;%F0%9F%8F%95%EF%B8%8F+Amateur+Mountaineer;%F0%9F%93%A3+Cybersecurity+Advocate)
+
+## Links
 - [resume]
 - [cpalmore.com]
 - [linkedin.com/in/cpalmore]
-
 
 ## My languages and tools 🛠️
 
