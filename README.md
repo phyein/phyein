@@ -1,6 +1,6 @@
-# Hello, I'm Connor! 👋
+# Hi, I'm Connor! 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Software+Engineer+(full-stack);%F0%9F%93%96+Open-Source+Enthusiast;%F0%9F%8F%95%EF%B8%8F+Amateur+Mountaineer;%F0%9F%93%A3+Cybersecurity+Advocate)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%94%AC+Quality+Engineer;%F0%9F%A7%A1+Open-Source+Enthusiast;%F0%9F%A5%BE+Mountaineer;%F0%9F%94%92+Security+Advocate)
 
 ## Links
 - [resume]
